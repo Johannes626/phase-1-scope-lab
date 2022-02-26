@@ -1,1 +1,8 @@
-// Write your solution in this file!
+const customerName = Bob
+
+const upperCaseCustomerName = () => {
+    return customerName.toUpperCase();
+};
+
+
+
